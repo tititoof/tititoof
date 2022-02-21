@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 **Frameworks and libraries**
 
 
-![RubyOnRails](https://img.shields.io/badge/RubyOnRails-111111.svg?logo=RoR&logoColor=white)
+![RubyOnRails](https://img.shields.io/badge/RubyOnRails-111111.svg?logo=rubyonrails&logoColor=white)
 ![Rspec](https://img.shields.io/badge/RSpec-111111.svg?logo=ruby&logoColor=white)
-![NuxtJS](https://img.shields.io/badge/Nuxt-111111.svg?logo=Nuxt&logoColor=white)
+![NuxtJS](https://img.shields.io/badge/Nuxt-111111.svg?logo=NuxtJS&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white)
 ![SonarLint](https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-111111.svg?logo=Laravel&logoColor=white)
