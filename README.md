@@ -25,10 +25,14 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)
 
 **Tools**
+
+
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=social)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=social)
 
 **Frameworks and libraries**
+
+
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white)
 ![SonarLint](https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-111111.svg?logo=symfony&logoColor=white)
