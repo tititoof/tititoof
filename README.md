@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 **Languages and tools:**
 
-![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git?logo=git&logoColor=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub?logo=github&logoColor=social)&nbsp;&nbsp;
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=social)&nbsp;&nbsp;
