@@ -29,20 +29,35 @@ Here are some ideas to get you started:
 
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=social)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=social)
-![Visual studio code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![Visual studio code](https://img.shields.io/badge/Visual%20Studio%20Code-2F80ED.svg?logo=vscodium&logoColor=white)
 ![Bitwarden](https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white)
-
-
+![SonarLint](https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 **Frameworks and libraries**
 
+* Backend
 
 ![RubyOnRails](https://img.shields.io/badge/RubyOnRails-CC342D.svg?logo=rubyonrails&logoColor=white)
-![Rspec](https://img.shields.io/badge/RSpec-CC342D.svg?logo=ruby&logoColor=white)
-![NuxtJS](https://img.shields.io/badge/NuxtJS-43853D.svg?logo=typescript&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white)
-![SonarLint](https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-007ACC.svg?logo=Laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-007ACC.svg?logo=symfony&logoColor=white)
+
+* Frontend
+
+![NuxtJS](https://img.shields.io/badge/NuxtJS-43853D.svg?logo=typescript&logoColor=white)
+
+* Tests
+
+![Rspec](https://img.shields.io/badge/RSpec-CC342D.svg?logo=ruby&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-C21325.svg?logo=vitest&logoColor=white)
+
+**CI/CD**
+
+![Forgejo](https://img.shields.io/badge/-Forgejo-FB923C.svg?logo=forgejo&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939.svg?logo=jenkins&logoColor=white)
+![Sonarqube](https://img.shields.io/badge/-Sonarqube-4E9BCD.svg?logo=jenkins&logoColor=white)
+![OpenProject](https://img.shields.io/badge/-OpenProject-0770B8.svg?logo=openproject&logoColor=white)
+
 
 **Database**
 
