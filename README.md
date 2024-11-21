@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 * Frontend
 
-![NuxtJS](https://img.shields.io/badge/NuxtJS-43853D.svg?logo=typescript&logoColor=white)
+![NuxtJS](https://img.shields.io/badge/NuxtJS-43853D.svg?logo=nuxtdotjs&logoColor=white)
 
 * Tests
 
